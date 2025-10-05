@@ -48,5 +48,8 @@ python email_filter_dashboard.py
 3.  Enter your email address and password.
     -   **Gmail Users**: You must enable IMAP in your Gmail settings and generate an **App Password**. Use this App Password in the password field, not your regular account password.
 4.  Select the desired date range.
-5.  Click **Fetch Emails**.
+5.  Click **Fetch Emails**.<img width="1361" height="717" alt="Screenshot 2025-10-05 100835" src="https://github.com/user-attachments/assets/b805b2ca-4c5d-44bd-9c48-3cabf1e3c79b" />
+<img width="1365" height="714" alt="Screenshot 2025-10-03 165330" src="https://github.com/user-attachments/assets/c3059e3f-fbac-448c-a146-c47178d365d8" />
+
+
 6.  Click **Open Dashboard** to view your emails.
